@@ -1,0 +1,21 @@
+{
+  "name": "LSTM_example_tensorflowjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.6.1",
+    "chart.js": "^2.7.2",
+    "lodash": "^4.17.5"
+  },
+  "scripts": {
+    "dev": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Horvath",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-loader": "^2.0.0"
+  }
+}
